@@ -1,0 +1,6 @@
+{
+  "name": "LabNex",
+  "description": "LabNex connects skilled workers and contractors with local job management, customized bidding counters, and interactive chat messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
